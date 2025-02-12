@@ -13,7 +13,7 @@ El desafío consiste en desarrollar un sistema capaz de elegir un amigo secreto 
 Sigue estos pasos para utilizar el proyecto correctamente:
 
 ### Paso 1: Acceder a la página
-Ingresa a la página: `bla bla`.
+Ingresa a la página: `(https://kazike19.github.io/amigo-secreto/)`.
 
 ### Paso 2: Posicionarse en la caja de texto
 Ubica el cursor en la caja de texto donde se ingresarán los nombres.
